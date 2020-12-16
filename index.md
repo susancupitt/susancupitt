@@ -3,7 +3,7 @@
 
 ## Overview
 
-![tea pot]({{ site.baseurl }}/images/IMG_0455.jpeg)
+![tea pot]({{ site.baseurl }}/images/Squat slate-green teapot h. 15 cms.jpg)
 
 I make stoneware pottery ranging from simple domestic vessels to more
 experimental forms. I throw all pots on the wheel but I modify some, at
