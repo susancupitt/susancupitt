@@ -1,9 +1,7 @@
 ---
 ---
 
-## Overview
-
-![tea pot]({{ site.baseurl }}/images/Squat slate-green teapot h. 15 cms.jpg)
+![Squat slate-green teapot](https://images.weserv.nl/?url=https://jcupitt.github.io//{{ site.baseurl }}/images/Squat slate-green teapot h. 15 cms.jpg&amp;w=600&amp;h=600&amp;output=jpg&amp;q=50&amp;t=square)
 
 I make stoneware pottery ranging from simple domestic vessels to more
 experimental forms. I throw all pots on the wheel but I modify some, at
