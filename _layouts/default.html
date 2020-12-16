@@ -6,10 +6,15 @@
     <meta name="description" content="{{ site.description }}"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
+    <meta name="keywords" content="ceramics, uk potter, ceramic art, pottery, stoneware pottery, stoneware, stoneware ceramics, studio pottery, handmade pots, hand-made pot, handthrown ceramic, potter, pots, pot, ceramic artist, british fine art, sculpture, Susan Cupitt, craftsman, crafts, craft, studio, clay arts, clay pot, jug, tableware, bowls, bowl, vase, glazes, handmade, handthrown, kiln fired, studio potery, artisan, craft potter, gifts, present, unique, commissions, clay forms, art studio, bowl, vases, jugs, clay vase, direct from artist, worldwide.">
+    <meta name="rating" content="Safe For Kids">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Cabin:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
     {% feed_meta %}
   </head>
   <body>
@@ -18,20 +23,14 @@
       <h2 class="project-tagline">{{ site.description }}</h2>
 
       <a href="{{ site.baseurl }}/index.html" class="btn">Overview</a>
-      <a href="{{ site.baseurl }}/download.html" class="btn">Download</a>
-      <a href="{{ site.baseurl }}/organisation.html" class="btn">Data organisation</a>
-      <a href="{{ site.baseurl }}/cite.html" class="btn">Cite</a>
-      <a href="https://neurostars.org/tags/developing-hcp" class="btn">Issues</a>
-
+      <a href="{{ site.baseurl }}/gallery.html" class="btn">Gallery</a>
+      <a href="{{ site.baseurl }}/info.html" class="btn">Further Information</a>
     </section>
 
     <section class="main-content">
       {{ content }}
 
       <footer class="site-footer">
-        <span class="site-footer-credits">
-          <a href="{{ site.github.repository_url }}">View on GitHub</a>
-        </span>
         <a style='float: right;' href="{{ site.baseurl }}/feed.xml"><img src="{{ site.baseurl }}/assets/images/rss.png" alt="subscribe via rss"/></a>
       </footer>
     </section>
