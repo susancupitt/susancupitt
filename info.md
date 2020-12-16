@@ -28,7 +28,7 @@ difficult to throw, and there are greater problems with firing.
 
 ### Links
 
-[Instagram](https://www.instagram.com/susan.cupitt)
+[Instagram](https://www.instagram.com/susan.cupitt)<br/>
 [Anglian Potters](http://www.anglianpotters.org.uk)<br/>
 [Cambridge Open Studios](http://www.camopenstudios.co.uk)<br/>
 
