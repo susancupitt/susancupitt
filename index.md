@@ -1,7 +1,9 @@
 ---
 ---
 
-![tea pot][images/IMG_0455.jpeg]
+## Overview
+
+![tea pot][{{ site.baseurl }}/images/IMG_0455.jpeg]
 
 I make stoneware pottery ranging from simple domestic vessels to more
 experimental forms. I throw all pots on the wheel but I modify some, at
@@ -18,9 +20,9 @@ me by email to see what is available. Items can be made on commission.
 
 ### Contact
 
-Susan Cupitt
-Tel: 01223 311937
-Email: susan.cupitt@gmail.com
+Susan Cupitt<br/>
+Tel: 01223 311937<br/>
+Email: [mailto](susan.cupitt@gmail.com)<br/>
 
 ### News
 

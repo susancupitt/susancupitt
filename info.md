@@ -1,3 +1,6 @@
+---
+---
+
 ## Further information
 
 ### Biography
@@ -32,7 +35,7 @@ difficult to throw, and there are greater problems with firing.
 
 ### Contact
 
-Susan Cupitt  
-Tel: 01223 311937  
-Email: [susan.cupitt@gmail.com](mailto:susan.cupitt@gmail.com)
+Susan Cupitt<br/>
+Tel: 01223 31193<br/>
+Email: [mailto](susan.cupitt@gmail.com)
 
