@@ -48,5 +48,15 @@
       </script>
     {% endif %}
     <script src="{{ '/assets/js/lightbox-plus-jquery.min.js?v=' | append: site.github.build_revision | relative_url }}"></script>
+    <script>
+        lightbox.option({
+          'resizeDuration': 100,
+          'alwaysShowNavOnTouchDevices': true,
+          'disableScrolling': true,
+          'fadeDuration': 100,
+          'imageFadeDuration': 100,
+          'wrapAround': true
+        })
+    </script>
   </body>
 </html>
