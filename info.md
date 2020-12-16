@@ -7,8 +7,8 @@
 
 I have been making pots for over 30 years, working as a member of a pottery
 cooperative and attending and teaching ceramics courses. I am a Selected
-Member and Secretary of the Anglian Potters. I have been part of Cambridge
-Open Studios since 1996.
+Member of the Anglian Potters. I have been part of Cambridge Open Studios
+since 1996.
 
 ### About Stoneware Pottery
 
@@ -28,10 +28,9 @@ difficult to throw, and there are greater problems with firing.
 
 ### Links
 
-[Anglian Potters](http://www.anglianpotters.org.uk/)  
-[Cambridge Folk Museum](http://www.folkmuseum.org.uk/)  
-[Cambridge Open Studios](http://www.camopenstudios.co.uk/)  
-[Primavera](http://primaverauk.com/)  
+[Instagram](https://www.instagram.com/susan.cupitt)
+[Anglian Potters](http://www.anglianpotters.org.uk)<br/>
+[Cambridge Open Studios](http://www.camopenstudios.co.uk)<br/>
 
 ### Contact
 
