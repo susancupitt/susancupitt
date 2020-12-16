@@ -1,7 +1,7 @@
 ---
 ---
 
-![Squat slate-green teapot](https://images.weserv.nl/?url={{ site.url }}/images/Squat slate-green teapot h. 15 cms.jpg&amp;output=jpg&amp;q=50&amp;t=square)
+![Squat slate-green teapot](https://images.weserv.nl/?url={{ site.url }}{{ site.baseurl }}/images/Squat slate-green teapot h. 15 cms.jpg&amp;output=jpg&amp;q=50&amp;t=square)
 
 I make stoneware pottery ranging from simple domestic vessels to more
 experimental forms. I throw all pots on the wheel but I modify some, at
