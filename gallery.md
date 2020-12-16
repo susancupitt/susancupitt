@@ -1,4 +1,4 @@
 ## Gallery
 
-{% include image-gallery.html folder="/images" %}
+{% include image-gallery.html folder="images" %}
 

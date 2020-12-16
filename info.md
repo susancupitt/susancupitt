@@ -25,14 +25,14 @@ difficult to throw, and there are greater problems with firing.
 
 ### Links
 
-[Anglian Potters](http://www.anglianpotters.org.uk/)
-[Cambridge Folk Museum](http://www.folkmuseum.org.uk/)
-[Cambridge Open Studios](http://www.camopenstudios.co.uk/)
-[Primavera](http://primaverauk.com/)
+[Anglian Potters](http://www.anglianpotters.org.uk/)  
+[Cambridge Folk Museum](http://www.folkmuseum.org.uk/)  
+[Cambridge Open Studios](http://www.camopenstudios.co.uk/)  
+[Primavera](http://primaverauk.com/)  
 
 ### Contact
 
-Susan Cupitt
-Tel: 01223 311937
-Email: susan.cupitt@gmail.com
+Susan Cupitt  
+Tel: 01223 311937  
+Email: [susan.cupitt@gmail.com](mailto:susan.cupitt@gmail.com)
 

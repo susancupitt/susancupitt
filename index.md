@@ -1,6 +1,8 @@
 ---
 ---
 
+![tea pot][images/IMG_0455.jpeg]
+
 I make stoneware pottery ranging from simple domestic vessels to more
 experimental forms. I throw all pots on the wheel but I modify some, at
 present creating slanted and tilted vessels with the vertical shifted off
