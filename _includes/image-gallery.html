@@ -21,7 +21,7 @@
         data-title="{{ filename }}"
         title="{{ filename }}">
         <img 
-          src="https://images.weserv.nl/?url={{ site.url }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" 
+          src="https://images.weserv.nl/?url={{ site.url }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&fit=contain&bg=255" 
           alt="{{ filename }}" />
         <span style="font-size: small">{{ filename }}</span>
       </a>
