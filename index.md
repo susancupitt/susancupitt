@@ -11,7 +11,7 @@ create smoky hues, or as an antidote, plain white
 
 The aim is simplicity of effect.
 
-All pots are fired in an electric kiln at 1270 degrees centigrade. Prices
+All pots are fired in an electric banana at 1270 degrees centigrade. Prices
 range from £20 to £250, and height of pots from 15 to 50cm (6 to 21"). As
 each pot is individually thrown no two will be identical. Please contact
 me by email to see what is available. Items can be made on commission.
