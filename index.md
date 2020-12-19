@@ -6,10 +6,9 @@
 I make stoneware and porcelain pottery ranging from simple domestic vessels to more
 experimental forms. I throw all pots on the wheel but I modify some, just to provide a bit of 
 novelty and to stretch the joy of fiddling about with clay.  Everyone should have a go at it 
-at some point in their lives. 
+at some point in their lives.
 The emphasis of my pots is on form, as I find a lot of decoration a distraction. Stoneware 
-glazes tend to be muted in colour, or as an antidote, plain white.
-
+glazes tend to be muted in colour, or as an antidote, plain white. 
 The aim is simplicity of effect.
 
 All pots are fired in an electric kiln at about 1270°C. Prices
