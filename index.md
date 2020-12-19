@@ -4,15 +4,16 @@
 ![Squat slate-green teapot](https://images.weserv.nl/?url={{ site.url }}{{ site.baseurl }}/images/Squat slate-green teapot h. 15 cms.jpg&amp;output=jpg&amp;q=50&amp;t=square)
 
 I make stoneware and porcelain pottery ranging from simple domestic vessels to more
-experimental forms. I throw all pots on the wheel but I modify some, often creating slanted or 
-tilted vessels with the vertical shifted off mid-centre. The emphasis is on form, 
-decoration sometimes being a distraction. Stoneware glazes tend to be muted in colour, or as 
-an antidote, plain white.
+experimental forms. I throw all pots on the wheel but I modify some, just to provide a bit of 
+novelty and to stretch the joy of fiddling about with clay.  Everyone should have a go at it 
+at some point in their lives. 
+The emphasis of my pots is on form, as I find a lot of decoration a distraction. Stoneware 
+glazes tend to be muted in colour, or as an antidote, plain white.
 
 The aim is simplicity of effect.
 
 All pots are fired in an electric kiln at about 1270°C. Prices
-range from £20 to £250, and height of pots from 15cm to 50cm. As
+range from £20 to £250, and the height of pots from 15cm to 50cm. As
 each pot is individually thrown no two will be identical. Please contact
 me by email to see what is available. Items can be made on commission.
 
