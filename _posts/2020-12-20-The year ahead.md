@@ -1,1 +1,0 @@
-January 2021  Look out for the Anglian Potters January Sale, where over 60 of us are participating.  See https://anglian.potters.org.uk for details.
