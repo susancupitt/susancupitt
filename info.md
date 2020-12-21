@@ -8,7 +8,7 @@
 I have been making pots for over 30 years, working as a member of a pottery
 cooperative and attending and teaching ceramics courses. I am a Selected
 Member of the Anglian Potters and have been part of Cambridge Open Studios
-since 1996.  In normal times I show at local galleries, and also participate
+since 1996. In normal times I show at local galleries, and also participate
 in Anglian Potters exhibitions and in Cambridge Open Studios.
 
 ### About Stoneware Pottery
