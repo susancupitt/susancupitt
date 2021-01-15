@@ -2,7 +2,9 @@
 
 Go here to view this site:
 
-  https://jcupitt.github.io/susancupitt
+  https://susancupitt.github.io/susancupitt
+
+  https://susancupitt.co.uk
 
 ## Welcome to GitHub Pages
 
