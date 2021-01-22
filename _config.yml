@@ -3,3 +3,4 @@ title: Susan Cupitt
 description: Stoneware Pottery
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
